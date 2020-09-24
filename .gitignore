@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Specific Files to Exclude
+yellow_tripdata_2017.06.csv
+
+
+yellow_tripdata_2017-06.csv
